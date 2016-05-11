@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/mrcpvn/chi_middleware",
+	"GoVersion": "go1.6",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/pressly/chi",
+			"Comment": "v0.9.0-14-g5b37f25",
+			"Rev": "5b37f25b31dbffc9d1c2ac40606c7038f97306b1"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "6ccd6698c634f5d835c40c1c31848729e0cecda1"
+		}
+	]
+}
